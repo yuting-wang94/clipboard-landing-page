@@ -189,7 +189,9 @@ li a{
 .nav-social-links{
   gap: 2rem;
 }
-
+.footer-right{
+  margin-bottom: 2rem;
+}
 @media(min-width:768px){
   
   html{
