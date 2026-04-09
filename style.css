@@ -98,6 +98,10 @@ h3{
   margin-top: 1.8rem;
   margin-bottom: 0.8rem;
 }
+.computer-section-points p, tools-wrapper p{
+  text-align:center;
+}
+  
 .icon-blacklists, .icon-text, .icon-preview{
   display: block;
   margin: 0 auto;
